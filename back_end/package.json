@@ -21,7 +21,7 @@
     "dependencies": {
         "express": "^4.17.1",
         "express-autosanitizer": "^1.0.1",
-        "luxon": "^1.21.1"
+        "luxon": "^1.28.1"
     },
     "devDependencies": {
         "morgan": "^1.9.1",
